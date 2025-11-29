@@ -1,0 +1,26 @@
+body{
+    padding: 20px;
+    font-family: serif;
+}
+.pic-1 {
+    width: 150px;
+
+    
+}
+
+
+
+.card{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    gap: 20px;
+    background: #f0ead2;
+    color: #7f5539;
+    border-bottom: 6px solid #6f5e53;
+    
+}
+
